@@ -27,7 +27,12 @@ const nflData = [
     'https://www.pro-football-reference.com/',
     'https://www.espn.com/nfl/',
     'https://www.pff.com/nfl',
-    'https://www.statmuse.com/nfl'
+    'https://www.statmuse.com/nfl',
+    'https://overthecap.com/',
+    'https://www.nfl.com/news/',
+    'https://sports.yahoo.com/nfl/',
+    'https://www.nfl.com/players/'
+
 ]
 
 const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN)
